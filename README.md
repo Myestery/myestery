@@ -6,7 +6,7 @@
 ### <div align="center">I'm Johnpaul, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Gwalinotes](http://www.gwalinotes.com)  
+- 🔭 I’m currently working on [Oystr API](http://www.oystrfinance.com)  
   
 
 - 🌱 I’m currently learning Go  and Google Cloud Platform  
