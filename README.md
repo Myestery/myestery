@@ -3,19 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Johnpaul, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Johnpaul, a full-time full-stack web3 developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [Oystr API](http://www.oystrfinance.com)  
+- 🌱 I’m currently learning Rust and Soroban
   
 
-- 🌱 I’m currently learning Go  and Google Cloud Platform  
-  
-
-- ❓ Ask me about anything related to MEVN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Ask me about anything related to MEVN stack and related technologies 
   
 
 <br/>  
