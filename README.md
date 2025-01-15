@@ -6,10 +6,10 @@
 ### <div align="center">I'm Johnpaul, a full-time full-stack web3 developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🌱 I’m currently learning Rust and Soroban
+- 🌱 I’m currently building tools for Rust based Chains
   
 
-- ❓ Ask me about anything related to MEVN stack and related technologies 
+- ❓ Ask me about anything related to Web3 Infrastructure and Fintech
   
 
 <br/>  
