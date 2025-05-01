@@ -11,6 +11,8 @@
 
 - ❓ Ask me about anything related to Web3 Infrastructure and Fintech
   
+- 📧 Email: jpchidera@outlook.com
+
 
 <br/>  
 
