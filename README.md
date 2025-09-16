@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-**Senior Full-Stack Web3 Developer** with **7+ years of experience** building scalable applications and blockchain infrastructure. I've been working remotely since 2018, specializing in **Web3 technologies**, **fintech solutions**, and **developer tooling**.
+**Senior Full-Stack Developer** with **7+ years of experience** building scalable applications and blockchain infrastructure. I've been working remotely since 2018, specializing in **Web3 technologies**, **fintech solutions**, and **developer tooling**.
 
-🔭 **Currently:** Building cutting-edge tools for **Rust-based blockchain networks**  
+🔭 **Currently:** Building AI tools for Media generation @comfyUI  
 💡 **Expertise:** Web3 Infrastructure, DeFi protocols, and enterprise-scale applications  
 🌱 **Focus:** Contributing to the decentralized web and blockchain ecosystem  
 📧 **Contact:** jpchidera@outlook.com  
